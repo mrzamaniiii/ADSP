@@ -5,7 +5,7 @@
 [![Librosa](https://img.shields.io/badge/Librosa-0.8.1-red)](https://librosa.org/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-0.12.2-blue)](https://www.statsmodels.org/)
 
-<img width="524" height="786" alt="ChatGPT Image Nov 12, 2025, 04_13_14 PM" src="https://github.com/user-attachments/assets/cbfae2bd-6c31-4e6d-9a2d-ccbf61fe6d39" />
+<img width="310" height="390" alt="ChatGPT Image Nov 12, 2025, 04_13_14 PM" src="https://github.com/user-attachments/assets/1b339910-e583-4caf-849c-9df6b0b7e85c" />
 
 A Python project for signal analysis and time-series estimation using Linear Predictive Coding (LPC). This project is implemented in a Jupyter Notebook and utilizes libraries such as Librosa and Statsmodels to model signals and evaluate estimation errors.
 
