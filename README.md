@@ -31,36 +31,3 @@ This project was developed using the following tools and libraries:
 * **Statsmodels**: For statistical analysis and time-series models.
 * **Matplotlib**: For plotting graphs and data visualization.
 * **Scikit-learn**: For calculating the `mean_squared_error`.
-
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/[YOUR_REPOSITORY_NAME].git
-    cd [YOUR_REPOSITORY_NAME]
-    ```
-    *(Remember to replace `[YOUR_USERNAME]` and `[YOUR_REPOSITORY_NAME]`)*
-
-2.  **Create and activate a virtual environment (Recommended):**
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3.  **Install dependencies:**
-    (It's a good practice to create a `requirements.txt` file from these)
-    ```sh
-    pip install jupyter numpy scipy librosa statsmodels matplotlib scikit-learn
-    ```
-
-4.  **Run the Jupyter Notebook:**
-    ```sh
-    jupyter notebook code.ipynb
-    ```
-## Key Results
-
-(You can add a summary of your findings here, perhaps including the plot showing MSE vs. the number of poles.)
-
-This analysis demonstrates how LPC can be effectively used to model a signal. The results in `code.ipynb` show the relationship between the model order (number of poles) and the accuracy of the signal estimation, visualized by plotting the Mean Squared Error.
